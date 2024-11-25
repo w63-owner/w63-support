@@ -1,14 +1,14 @@
 # w63-support
 
 ## About
-W63 is an iOS app featuring an animated eye with a purchase counter.
+W63 is an iOS app featuring an animated eye with a counter.
 
 ## Contact
-For support inquiries: [votre-email]@gmail.com
+For support inquiries gmailforx@gmail.com
 
 ## FAQ
 **Q: How does the counter work?**
-A: The counter shows the total number of app purchases.
+A: Guess
 
-**Q: Is my purchase counted?**
-A: Yes, purchases are automatically counted and displayed.
+**Q: What does "Wait for the call." means?**
+A: It means you have to wait for the call.
